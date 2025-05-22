@@ -1,0 +1,1 @@
+ALTER TABLE "hospital" ALTER COLUMN "contact_number" DROP NOT NULL;

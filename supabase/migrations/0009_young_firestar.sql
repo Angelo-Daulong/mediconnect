@@ -1,0 +1,1 @@
+ALTER TABLE "doctor" DROP CONSTRAINT "doctor_name_unique";

@@ -1,0 +1,1 @@
+ALTER TABLE "hospital_user" ADD COLUMN "deleted" boolean DEFAULT false;

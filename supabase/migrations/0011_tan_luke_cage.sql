@@ -1,0 +1,1 @@
+ALTER TABLE "transaction_logs" ADD COLUMN "context" text;

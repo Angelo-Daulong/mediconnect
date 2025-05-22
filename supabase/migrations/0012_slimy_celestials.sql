@@ -1,0 +1,1 @@
+ALTER TABLE "doctor" ADD COLUMN "day_available" text;
